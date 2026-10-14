@@ -3,7 +3,7 @@ import type { ProfileData } from '../types';
 export const profileData: ProfileData = {
   fullName: "Mohammad Ripon Hasan Shayshob",
   preferredName: "Mohammad R. H. Shayshob",
-  primaryTitle: "Technical Product Manager & Product Owner",
+  primaryTitle: "Technical Product Manager",
   secondaryTitle: "PMP® & ISTQB® Certified | Aviation & Enterprise Platforms",
   credentialsShort: "PMP® | ISTQB®",
   experienceYears: 7,
@@ -17,7 +17,7 @@ export const profileData: ProfileData = {
   istqbLevel: "CTFL Foundation Level v4.0",
   statusBadge: "Open to High-Impact Leadership Roles",
   executiveSummary: [
-    "I am an engineering-grounded Technical Product Manager and Product Owner specializing in taking complex, data-intensive web platforms from zero to mission-critical operational readiness. With a Bachelor's in Electrical & Electronic Engineering and active PMP® and ISTQB® credentials, I bridge high-level corporate strategy with low-level systems engineering.",
+    "I am an engineering-grounded Technical Product Manager specializing in taking complex, data-intensive web platforms from zero to mission-critical operational readiness. With a Bachelor's in Electrical & Electronic Engineering and active PMP® and ISTQB® credentials, I bridge high-level corporate strategy with low-level systems engineering.",
     "My primary focus over the last several years has centered on highly regulated industries—specifically commercial aviation safety. I have driven the multi-year lifecycle of enterprise platforms such as AvioSMS, AvioFDMA, and Aviation Medical Record (AMR), ensuring continuous alignment with strict international standards including ICAO Annex 6, ICAO Doc 9859, and civil aviation authority mandates."
   ],
   coreSuperpower: {

@@ -30,7 +30,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenResume }) => {
               </div>
             </div>
             <p className="text-sm text-slate-400 font-medium">
-              Technical Product Manager & Product Owner • Commercial Aviation & Enterprise Systems
+              {profileData.primaryTitle} • Commercial Aviation & Enterprise Systems
             </p>
           </div>
 
