@@ -1,5 +1,5 @@
 import React, { useState, type FormEvent } from 'react';
-import { Send, CheckCircle2, Loader2 } from 'lucide-react';
+import { Send, CheckCircle2, Loader2, Lock } from 'lucide-react';
 import { MagneticButton } from '../../common/MagneticButton';
 import type { ContactFormData } from '../../../types';
 
@@ -36,7 +36,7 @@ export const ContactForm: React.FC = () => {
   };
 
   return (
-    <div className="p-8 sm:p-10 rounded-3xl bg-[#111827]/90 border border-white/10 shadow-2xl backdrop-blur-2xl">
+    <div className="p-8 sm:p-10 rounded-3xl bg-[#111827]/90 border border-white/10 shadow-2xl backdrop-blur-2xl h-full flex flex-col justify-between">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
         <div>
           <h3 className="text-2xl font-bold text-white tracking-tight">
@@ -115,8 +115,8 @@ export const ContactForm: React.FC = () => {
         </div>
 
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-2">
-          <span className="text-xs font-medium text-slate-500 uppercase tracking-widest">
-            🔒 Confidentiality Assured
+          <span className="inline-flex items-center gap-1.5 text-xs font-medium text-slate-500 uppercase tracking-widest">
+            <Lock size={13} className="text-amber-500/80" /> Confidentiality Assured
           </span>
 
           <MagneticButton

@@ -74,14 +74,14 @@ export const Contact: React.FC = () => {
           />
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-stretch">
           {/* Left Column: Direct Communication Channels */}
-          <div className="contact-cards lg:col-span-5">
+          <div className="contact-cards lg:col-span-5 h-full">
             <ContactCards />
           </div>
 
           {/* Right Column: Interactive Form */}
-          <div className="contact-form-wrapper lg:col-span-7">
+          <div className="contact-form-wrapper lg:col-span-7 h-full">
             <ContactForm />
           </div>
         </div>
