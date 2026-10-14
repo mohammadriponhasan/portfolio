@@ -74,7 +74,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
               <MapPin size={13} className="text-blue-400" /> {profileData.location}
             </span>
             <span className="flex items-center gap-2">
-              <ShieldCheck size={13} className="text-[#10B981]" /> PMP® #3825942 | ISTQB® CTFL v4.0
+              <ShieldCheck size={13} className="text-[#10B981]" /> PMP® #4465221 | ISTQB® CTFL v4.0
             </span>
           </div>
         </div>

@@ -124,7 +124,7 @@ export const About: React.FC = () => {
               <div className="flex items-center justify-between py-1.5 text-sm">
                 <span className="text-slate-400">Core Verification</span>
                 <span className="text-[11px] font-bold text-[#10B981] tracking-widest">
-                  PMP® #3825942 | ISTQB®
+                  PMP® #4465221 | ISTQB®
                 </span>
               </div>
             </div>

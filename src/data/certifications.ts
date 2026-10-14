@@ -6,7 +6,7 @@ export const certificationsData: CertificationItem[] = [
     title: 'PMP® – Project Management Professional',
     shortTitle: 'PMP® Certified',
     issuer: 'Project Management Institute (PMI)',
-    licenseNumber: 'License #3825942',
+    licenseNumber: 'License #4465221',
     issueDate: 'Issued 2024',
     status: 'Verified Active',
     accentColor: '#10B981',
