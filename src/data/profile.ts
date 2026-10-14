@@ -7,7 +7,7 @@ export const profileData: ProfileData = {
   secondaryTitle: "PMP® & ISTQB® Certified | Aviation & Enterprise Platforms",
   credentialsShort: "PMP® | ISTQB®",
   experienceYears: 7,
-  avatarUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuBybqddjzP_FtpwCVWdpkh6LVtpkaCfAFfY8JqBhm85130uxv2KloPuAonsEViNrBdtTlLYP1UbAz8jIWcRSfLoHH_s3OKkJFPb27IGBK0xHByp5l5mDLyqET2y1gJ3VQWaqU7nkuwuZswo5UcJS82OMPJwfvv7brSYIvmaphPTKosfw4Q64Jio0KI75SeLd1tTKwYzdaxh3jpH0tVpLBKQ8KJz5kbNaR9LlJvpqiPsqd4W3PA9HoVP",
+  avatarUrl: "https://flightschedule.s3.ap-southeast-1.amazonaws.com/flight-safety/usba_dev%2F2040bd1f-3359-4740-bc06-52aba24d1e47%2Favatar.png",
   location: "Baridhara, Gulshan, Dhaka-1212, Bangladesh",
   email: "shayshob.mrh@gmail.com",
   phone: "+8801638580707",
